@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+env
+*.pyc
+
+ecom/__pycache__
+api/__pycache__
+home/__pycache__
+
+home/migrations
+
+sqldiff.exe
+sqlite3_analyzer.exe
+sqlite3.exe
+db.sqlite3
